@@ -1,0 +1,4 @@
+module Herencia
+
+  end
+end
